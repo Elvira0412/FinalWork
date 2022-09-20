@@ -1,0 +1,15 @@
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\bin\Debug\net6.0\task.exe
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\bin\Debug\net6.0\task.deps.json
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\bin\Debug\net6.0\task.dll
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\bin\Debug\net6.0\task.pdb
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.dll
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\refint\task.dll
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.pdb
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\Эльвира\GeekBrains\Знакомство с #\FinalWork\FinalWork\task\obj\Debug\net6.0\ref\task.dll
